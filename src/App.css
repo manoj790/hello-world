@@ -1,0 +1,23 @@
+.button {
+  background-color: lightblue;
+  width: 47px;
+  height: 50px;
+  margin: 1px;
+}
+
+.textview {
+  padding: 10px;
+  text-align: right;
+  margin: 4px;
+
+}
+
+.main {
+  margin: 10px;
+}
+
+.eqlbtn {
+  width: 96px;
+  height: 50px;
+  background-color: lightblue;
+}
